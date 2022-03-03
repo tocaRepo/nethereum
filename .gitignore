@@ -1,0 +1,7 @@
+/.vscode
+/*/bin
+/*/obj
+
+/tests/*/bin
+/tests/*/obj
+/*/appsettings.Development.json
